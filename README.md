@@ -1,1 +1,1 @@
-# Smart-Plant-Health-Assistant-Using-CNN-and-NLP-for-Disease-Detection-Public
+# Smart-Plant-Health-Assistant-Using-CNN-and-NLP-for-Disease-Detection
